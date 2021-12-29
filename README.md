@@ -15,5 +15,5 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Msaif-400&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Msaif_400&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Msaif-400&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
