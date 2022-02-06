@@ -9,7 +9,7 @@
 - 📫 How to reach me: 
 - [Twitter - @Msaif_400](https://twitter.com/Msaif_400)
 <!-- - [Instagram - @m0hd197](https://www.instagram.com/m0hd197/) -->
-- [Youtube - @MohdTech](https://www.youtube.com/c/MohdTech)
+- [Youtube - @MohdTech](https://www.youtube.com/c/CodingClassRoom1)
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: Mostly,I like a secluded and quite place.
 
